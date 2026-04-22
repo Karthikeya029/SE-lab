@@ -1,5 +1,0 @@
-Hello World
-This is my first GitHub repository.
-this is assignment - 2 lab
-  This line is added in test-branch.
-
